@@ -4,3 +4,4 @@
 
 Your local folder `pb_data` map to pocketbase data. First time runnig, check the logs to get link to create super user credentials.
 
+`docker logs [containerID]` copy paste the link to the browser
