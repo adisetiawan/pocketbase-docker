@@ -2,7 +2,7 @@ version: "3.7"
 
 services:
     pocketbase:
-        image: adisetiawan/pocketbase:0.23.7
+        image: adisetiawan/pocketbase:latest
         restart: unless-stopped
         ports:
             - 8080:8080
